@@ -1,0 +1,3 @@
+1. inside lambda expression we can't declare instance variables.
+2 whatever variable declares inside lambda expression are simply acts as local variable.
+3. The local variables referenced from lambda expression are implicitly final and hence we can't perform re-assignmentfor those local varibale.
