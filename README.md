@@ -7,4 +7,4 @@ default method
 Predicates, Functions
 Double icon operator(::)
 Stream API
-Date and time API))
+Date and time API
